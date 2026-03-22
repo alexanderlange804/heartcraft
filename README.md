@@ -6,7 +6,6 @@
 [![Virtual Birthday Bash](https://img.shields.io/badge/🎂-Virtual_Birthday_Bash-7c3aed)](https://birthday.myheartcraft.com)
 [![Surprise Photo Puzzle](https://img.shields.io/badge/🧩-Surprise_Photo_Puzzle-f59e0b)](https://puzzle.myheartcraft.com)
 [![Blog](https://img.shields.io/badge/📖-Blog-10b981)](https://myheartcraft.com/blog)
-[![Made in India](https://img.shields.io/badge/🇮🇳-Made_in_India-FF9933)](#)
 
 ---
 
