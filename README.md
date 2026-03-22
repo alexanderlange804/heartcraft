@@ -1,4 +1,4 @@
-# MyHeartCraft — Digital Gifts for Couples: Love Proposals, Birthday Surprises & Photo Puzzles
+# HeartCraft — Digital Gifts for Couples: Love Proposals, Birthday Surprises & Photo Puzzles
 
 > **Cute websites to send to your boyfriend or girlfriend** — personalized, shareable, instant. No app downloads, no signups. Just a link that works on any device.
 
@@ -9,7 +9,7 @@
 
 ---
 
-MyHeartCraft is a suite of three digital gift experiences built for couples, long-distance partners, and anyone who wants to make someone feel special online — without downloading an app or creating an account.
+HeartCraft is a suite of three digital gift experiences built for couples, long-distance partners, and anyone who wants to make someone feel special online — without downloading an app or creating an account.
 
 You create a personalized experience. You get a unique link. You share it on WhatsApp, Instagram DM, or any messaging platform. They open it and experience something built just for them.
 
@@ -70,11 +70,11 @@ A solve-to-reveal photo puzzle experience combined with a Q&A challenge. The sen
 
 ---
 
-## 💡 Why MyHeartCraft Exists
+## 💡 Why HeartCraft Exists
 
-Most "digital gifts" are ecards — a flat image with text that gets glanced at and forgotten. MyHeartCraft builds **experiences**, not cards.
+Most "digital gifts" are ecards — a flat image with text that gets glanced at and forgotten. HeartCraft builds **experiences**, not cards.
 
-| Traditional Ecard | MyHeartCraft Digital Gift |
+| Traditional Ecard | HeartCraft Digital Gift |
 |---|---|
 | Static image + text | Interactive, animated experience |
 | Looks the same for everyone | Personalized with names, messages, and photos |
@@ -89,7 +89,7 @@ Each product is a **standalone web experience delivered via a link**. Not a gree
 
 ## 🔗 How Sharing Works
 
-Every MyHeartCraft experience generates a **unique shareable link**. No app downloads. No account creation on the recipient's end. Just a URL that works on any phone, tablet, or computer.
+Every HeartCraft experience generates a **unique shareable link**. No app downloads. No account creation on the recipient's end. Just a URL that works on any phone, tablet, or computer.
 
 The link is optimized for WhatsApp sharing — the most common way couples in India send things to each other. It also works on Instagram DMs, Telegram, SMS, email, or any messaging platform.
 
@@ -98,13 +98,13 @@ The link is optimized for WhatsApp sharing — the most common way couples in In
 ## 🎯 Built for Real Use Cases
 
 ### For Long-Distance Couples
-When you can't be there in person, a MyHeartCraft link lets you create a shared moment. The Surprise Photo Puzzle's live dashboard means you can watch them solve it during a video call. The Perfect Proposal turns a boring "I love you" text into something they'll screenshot and save.
+When you can't be there in person, a HeartCraft link lets you create a shared moment. The Surprise Photo Puzzle's live dashboard means you can watch them solve it during a video call. The Perfect Proposal turns a boring "I love you" text into something they'll screenshot and save.
 
 ### For Valentine's Week (Feb 7–14)
 Each day of Valentine's Week in India — Rose Day, Propose Day, Chocolate Day, Teddy Day, Promise Day, Hug Day, Kiss Day, Valentine's Day — is an occasion to send something. The Perfect Proposal is tailor-made for Propose Day (February 8). The Surprise Photo Puzzle works as a couple activity for any day of the week.
 
 ### For Last-Minute Gifters
-It's 11:47 PM. Their birthday is in 13 minutes. You forgot. MyHeartCraft takes minutes to create and send. No shipping, no delivery time, no "arriving in 2–3 business days." Instant delivery via a link.
+It's 11:47 PM. Their birthday is in 13 minutes. You forgot. HeartCraft takes minutes to create and send. No shipping, no delivery time, no "arriving in 2–3 business days." Instant delivery via a link.
 
 ### For Creative Proposals
 "What is a cute way to ask someone to be my girlfriend?" — The Perfect Proposal answers this. The unrejectable "No" button mechanic makes it playful, low-pressure, and impossible to say no to. More creative than a text message, more memorable than a phone call.
@@ -139,8 +139,8 @@ We write in-depth guides about digital gifting, online surprises, and making peo
 
 ## 🤔 Frequently Asked Questions
 
-### What is MyHeartCraft?
-MyHeartCraft is a suite of digital gift experiences — interactive, personalized web experiences delivered as shareable links. It includes three products: The Perfect Proposal (love confessions), Virtual Birthday Bash (birthday celebrations), and Surprise Photo Puzzle (photo reveal + Q&A challenge).
+### What is HeartCraft?
+HeartCraft is a suite of digital gift experiences — interactive, personalized web experiences delivered as shareable links. It includes three products: The Perfect Proposal (love confessions), Virtual Birthday Bash (birthday celebrations), and Surprise Photo Puzzle (photo reveal + Q&A challenge).
 
 ### How do I send a love proposal to my crush?
 Go to [valentine.myheartcraft.com](https://valentine.myheartcraft.com), write your proposal question or love letter, customize the design, and you'll get a unique link. Share that link on WhatsApp or any messaging app. When they open it, they'll see your personalized love confession — and the "No" button will dodge every attempt to tap it.
@@ -166,7 +166,7 @@ Absolutely. Long-distance couples are one of the primary audiences. When you can
 ### Is this a game or a gift?
 It's a **digital gift**. While the products have interactive elements (the dodging "No" button, the puzzle solving), the core purpose is to make someone feel special — not to score points or compete. Think of it as a personalized experience delivered via a link.
 
-### What data does MyHeartCraft collect?
+### What data does HeartCraft collect?
 Each generated link contains private user content — names, messages, love letters, photos, and Q&A answers. These personalized pages are private and accessible only via the unique link shared by the sender. No email addresses, phone numbers, or social media logins are required from recipients.
 
 ---
